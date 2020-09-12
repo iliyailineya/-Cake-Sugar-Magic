@@ -1,1 +1,1 @@
-# -Cake-Sugar-Magic
+# Cake-Sugar-Magic
